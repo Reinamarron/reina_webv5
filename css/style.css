@@ -1,0 +1,149 @@
+Css
+
+.container-fluid{
+  padding: 0px;
+}
+.nav-pills{
+  font-family: Orbitron;
+  font-size: 1.7em;
+  background-color:  black;
+  opacity: 0.7;
+  margin-bottom: 15%;
+  
+}
+
+html,body{
+  background-color: white;
+  font-family: Orbitron;
+  color: white;
+  height: 100%;
+}
+
+h1{
+  margin-top:0px;
+  font-size: 5.0em;
+}
+
+.block{
+  background-color: black;
+  opacity:.8;
+  padding: 10px;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.btn-default{
+ background-color: black;
+  border-color: black;
+  color: #337ab7;
+  opacity:.7;
+  font-size: 1.7em;
+}
+
+
+.pageOne{
+  background: url("https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  height:100%;
+  min-height: 100%;
+}
+
+
+
+
+.pageTwo{
+  background:url("https://images.pexels.com/photos/1246743/pexels-photo-1246743.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500");
+  background-size:cover;
+  height: 100%;
+  min-height: 100%;
+  padding-top: 5%;
+  padding-bottom: 25%;
+  
+}
+
+p{
+  font-size: 1.5em;
+}
+
+.paddingTop{
+  padding-top: 7%;
+  padding-bottom: 24%;
+}
+  
+
+
+.me{
+  height: 300px;
+  
+/*   border-radius: 50%; */
+}
+
+.footer p{
+  font-size: 15px;
+}
+
+.paddingBTN{
+/*   padding-top: 25%;*/
+/*   padding: 5px;  */
+  font-size: 1.7em;
+  width: 250px;
+  margin-bottom:5px;
+}
+
+.pageThree{
+background:url("https://images.pexels.com/photos/1153213/pexels-photo-1153213.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-size:cover;
+   height:100%;
+  min-height: 100%; 
+}
+
+.pageFour{
+  font-family: Obitron;
+  font-size: 30px;
+  padding-top: 5px;
+  top: 100px
+}
+.section-center_full {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  padding-left: 20px;
+  font-weight: normal;
+  font-size: 20px;
+  color: white;
+}
+
+.Portfolio_table_size{
+  height: 40vh;
+}
+  
+  .thumbnail{
+  text-align:center;
+  border: 0;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.thumbnail iframe{
+  display: inline-block;
+  height: 30vh;
+  width: 40vh;
+  border-color: white;
+  float: none;
+}
+
+.pageFive{ background:url("https://images.pexels.com/photos/164186/pexels-photo-164186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  height:100%;
+  min-height: 100%;
+  padding-top: 5%;
+  padding-bottom: 20%;
+}
+
