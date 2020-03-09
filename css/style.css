@@ -1,4 +1,4 @@
-Css
+
 
 .container-fluid{
   padding: 0px;
@@ -6,7 +6,7 @@ Css
 .nav-pills{
   font-family: Orbitron;
   font-size: 1.7em;
-  background-color:  green;
+  background-color:  rgba(222, 223, 231, 0.979);
   color:whitesmoke;
   opacity: 0.7;
   margin-bottom: 15%;
@@ -130,15 +130,30 @@ p{
   border: 0;
   box-shadow: none;
   overflow: hidden;
-}
-
-.thumbnail iframe{
-  display: inline-block;
+  display: inset-inline;
   height: 30vh;
   width: 40vh;
   border-color: rgba(252, 8, 8, 0.961);
-  float: none;
+  
 }
+.email{
+  color: black;
+}  
+
+.Facebook{
+  color: black;
+}
+
+.GitHub{
+  color: black;
+}
+
+.LinkedIn{
+  color:black;
+}
+
+
+
 
 .pageFive{ background:url("https://images.pexels.com/photos/164186/pexels-photo-164186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-size: cover;
@@ -146,7 +161,7 @@ p{
   min-height: 100%;
   padding-top: 5%;
   padding-bottom: 20%;
-  text-decoration-color: whitesmoke;
-  text-emphasis: white;
+  text-decoration-color: black;
+  text-emphasis: black;
 }
 
